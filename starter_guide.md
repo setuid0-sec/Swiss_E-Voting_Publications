@@ -227,7 +227,7 @@ There would be so much more to be tested and investigated, but we decided to sto
 
 The last thing what we want to say is we are just young hackers having fun. All the "professionals" are just missing out because "they have no time", right?
 
-But even though, we are the only ones yet that published actual vulnerabilities while everyone else was just badmouthing the code without any security impact. Keep that in mind.
+But even though, we were some of the few that published actual vulnerabilities while almost everyone else was just badmouthing the code without any security impact. Keep that in mind.
 
 
 ***micdrop***
